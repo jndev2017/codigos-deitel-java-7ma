@@ -1,2 +1,4 @@
 
-Java Deitel 7ma ed - example codes (Spanish version)
+# readme
+
+Códigos de ejemplo - Java 7ma edición
